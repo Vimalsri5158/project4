@@ -1,0 +1,58 @@
+.sidebar{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 250px;
+    height: 100vh;
+    line-height: 5rem;
+    background-color: black;
+  }
+  
+  .sidebar a{
+    text-decoration: none;
+    color: rgba(239, 233, 233, 0.998);
+  }
+  
+  ul{
+    margin-top: 30px;
+    padding: 10px;
+  }
+
+  .header {
+    position: absolute;
+    top: 0;
+    left: 250px;
+    background-color: green;
+    width: calc(100% - 250px);
+    height: 50px;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+
+  }
+
+.Form{
+    padding: 20px;
+    left: 250px;
+    margin-top: 50px;
+    width: calc(100% - 250px);
+    position: relative;
+    justify-content: center;
+    text-align: start;
+    font-family:serif;
+    margin-left: 300px;
+    border: 5px solid grey;
+    background-color: lightslategray;
+}
+
+input{
+  border: none;
+  border-radius: 10px;
+  background-color:lemonchiffon;
+  margin-left: 20px;
+}
+
+
+h4{
+  color:grey;
+}

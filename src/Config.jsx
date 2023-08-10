@@ -1,0 +1,1 @@
+export const StudentsUrl = 'https://64d4c71db592423e4694ac60.mockapi.io/';
